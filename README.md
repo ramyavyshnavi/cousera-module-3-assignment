@@ -1,5 +1,5 @@
 # cousera-module-3-assignment
-Visit: https://github.com/ngzhekai/Coursera-Module-3-Coding-Assignment
+Visit: [My solution](https://ramyavyshnavi.github.io/cousera-module-3-assignment/)
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
